@@ -52,10 +52,10 @@ LeetCode-Solutions/
 
 | Difficulty | Solved |
 | ---------- | ------ |
-| Easy       | X      |
-| Medium     | X      |
+| Easy       | 2      |
+| Medium     | 3      |
 | Hard       | X      |
-| Total      | X      |
+| Total      | 5      |
 
 ---
 
